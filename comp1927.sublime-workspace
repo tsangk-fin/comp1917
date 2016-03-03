@@ -1,0 +1,1218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reg",
+				"regionId"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"develo",
+				"development_name"
+			],
+			[
+				"chec",
+				"checkplans"
+			],
+			[
+				"regio",
+				"regionCount"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"net",
+				"nextPage"
+			],
+			[
+				"HF",
+				"HFLPath"
+			],
+			[
+				"carto",
+				"cartodb_layer"
+			],
+			[
+				"cartodb",
+				"cartodb_layers"
+			],
+			[
+				"temp",
+				"temp_url"
+			],
+			[
+				"tem",
+				"temp_url"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"km",
+				"kmlOutput"
+			],
+			[
+				"sat",
+				"status"
+			],
+			[
+				"rsp_data",
+				"rsp_data_db"
+			],
+			[
+				"rsp",
+				"rsp_data_db"
+			],
+			[
+				"categ",
+				"addressCategory"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"network",
+				"network_type"
+			],
+			[
+				"addre",
+				"addressStatus"
+			],
+			[
+				"update",
+				"update_status"
+			],
+			[
+				"suba",
+				"subaddress_data"
+			],
+			[
+				"ove",
+				"override_address_data"
+			],
+			[
+				"sugge",
+				"suggestion_mapper"
+			],
+			[
+				"formatt",
+				"formatted_address"
+			],
+			[
+				"locality",
+				"localityName"
+			],
+			[
+				"state",
+				"stateTerritoryCode"
+			],
+			[
+				"location",
+				"location_obj"
+			],
+			[
+				"select",
+				"select_by_id"
+			],
+			[
+				"nbn",
+				"nbn_region"
+			],
+			[
+				"loca",
+				"localities_hfc"
+			],
+			[
+				"save",
+				"save_to_db"
+			],
+			[
+				"insert",
+				"insert_only"
+			],
+			[
+				"type",
+				"type_like"
+			],
+			[
+				"nbn_re",
+				"nbn_region_activation"
+			],
+			[
+				"delet",
+				"deletion_forced"
+			],
+			[
+				"plan",
+				"plan_data"
+			],
+			[
+				"nbn_",
+				"nbn_build_status"
+			],
+			[
+				"db",
+				"db_build_date"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"2013_",
+				"2013_results"
+			],
+			[
+				"imdb",
+				"imdb_match"
+			],
+			[
+				"hel",
+				"heldbycolour"
+			],
+			[
+				"sera",
+				"searchPlayer"
+			],
+			[
+				"el",
+				"el"
+			],
+			[
+				"nbn_region",
+				"nbn_region_ob"
+			],
+			[
+				"nbn_reg",
+				"nbn_region_ob"
+			],
+			[
+				"nb",
+				"nbn_region"
+			],
+			[
+				"service",
+				"service_class_array"
+			],
+			[
+				"ser",
+				"service_class"
+			],
+			[
+				"serv",
+				"service_class_array"
+			],
+			[
+				"editKe",
+				"editKeywordsDOM"
+			],
+			[
+				"editKeyw",
+				"editKeywordsDOM"
+			],
+			[
+				"thead",
+				"thread_id"
+			],
+			[
+				"threa",
+				"thread_row"
+			],
+			[
+				"se",
+				"setup"
+			],
+			[
+				"forum",
+				"forums_rows"
+			],
+			[
+				"quote",
+				"quoted_printable_encode"
+			],
+			[
+				"region",
+				"region_id"
+			],
+			[
+				"st",
+				"stmt_region"
+			],
+			[
+				"activatio",
+				"activation_date"
+			],
+			[
+				"actual",
+				"actual_rfs"
+			],
+			[
+				"activati",
+				"activation_date"
+			],
+			[
+				"act",
+				"activation_date"
+			],
+			[
+				"activat",
+				"activation_data"
+			],
+			[
+				"ac",
+				"activation_data"
+			],
+			[
+				"game",
+				"gamelogDOM"
+			],
+			[
+				"ma",
+				"master_cols"
+			],
+			[
+				"playerCo",
+				"playerCollector"
+			],
+			[
+				"proc",
+				"proc_year"
+			],
+			[
+				"player",
+				"playerComplete"
+			],
+			[
+				"playe",
+				"player_link"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"yea",
+				"yearFrom"
+			],
+			[
+				"fac",
+				"facets_match"
+			],
+			[
+				"pro",
+				"proc_level"
+			],
+			[
+				"face",
+				"facet_type"
+			],
+			[
+				"latest",
+				"latest_rfs"
+			],
+			[
+				"render",
+				"renderData"
+			],
+			[
+				"addr",
+				"addr_list"
+			],
+			[
+				"add",
+				"addr_list"
+			],
+			[
+				"suburb",
+				"suburbIndex"
+			],
+			[
+				"stret",
+				"streetNameAndType"
+			],
+			[
+				"streetNumber",
+				"streetNumberMatches"
+			],
+			[
+				"str",
+				"streetNumberMatches"
+			],
+			[
+				"address",
+				"address_data"
+			],
+			[
+				"su",
+				"suburb"
+			],
+			[
+				"subr",
+				"suburb_array"
+			],
+			[
+				"number",
+				"number_format"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"realestat",
+				"realestate_data"
+			],
+			[
+				"surub",
+				"suburb"
+			],
+			[
+				"nbnco",
+				"nbnco_sq_data"
+			],
+			[
+				"price",
+				"priceMatches"
+			],
+			[
+				"reale",
+				"realestate_data"
+			],
+			[
+				"stre",
+				"streetAddressMatches"
+			],
+			[
+				"real",
+				"realestate_data"
+			],
+			[
+				"rea",
+				"realestate_data"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"street",
+				"streetAddressMatches"
+			],
+			[
+				"rel",
+				"realestate_data"
+			],
+			[
+				"re",
+				"realestate_locations"
+			],
+			[
+				"season",
+				"season_data"
+			],
+			[
+				"progra",
+				"program_data"
+			],
+			[
+				"genre",
+				"genre_array"
+			],
+			[
+				"ensure",
+				"ensure_all_complete"
+			],
+			[
+				"tv",
+				"tv_complete"
+			],
+			[
+				"movi",
+				"movie_complete"
+			],
+			[
+				"tmdb",
+				"tmdb_year"
+			],
+			[
+				"om",
+				"_omdb_runtime"
+			],
+			[
+				"prog",
+				"program"
+			],
+			[
+				"durat",
+				"duration_data"
+			],
+			[
+				"program",
+				"program_array"
+			],
+			[
+				"poster",
+				"_poster_uri"
+			],
+			[
+				"omdb",
+				"omdb_params"
+			],
+			[
+				"duration",
+				"duration_in_m"
+			],
+			[
+				"durti",
+				"duration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"switch",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"swit",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"sw",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"swi",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"hmtl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"yuo",
+				"Build With: YUI Compressor"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Kenneth/OneDrive/COMP1927"
+	],
+	"file_history":
+	[
+		"/Users/Kenneth/dev/src/plugins/nbn/js/mynbn.map.full_ed.js",
+		"/Users/Kenneth/dev/src/plugins/nbn/src/Module/RolloutRegion.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/mine/lib/logger.func.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/lib/mynbnclass/nbn_sa.class.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/src/Db.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/viewsbs3/template/region.mustache",
+		"/Users/Kenneth/dev/src/plugins/nbn/viewsbs3/template/sa.mustache",
+		"/Users/Kenneth/dev/src/plugins/nbn/lib/mynbnclass/nbn_csa.class.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/lib/mynbnclass/nbn_poi.class.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/viewsbs3/rsplist.mustache",
+		"/Users/Kenneth/dev/src/plugins/nbn/viewsbs3/rsplist_rhs.mustache",
+		"/Users/Kenneth/dev/src/plugins/nbn/src/Module/AccessDistributionArea.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/src/Response/PageData.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/nbn.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/src/Module/ServiceArea.php",
+		"/Users/Kenneth/dev/src/plugins/nbn2/mine/Process_Subscription.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/mine/Integrate_HRRL_Data.php",
+		"/Users/Kenneth/dev/src/plugins/nbn/mine/Integrate_Footprint_Data.php",
+		"/Users/Kenneth/dev/src/themes/finder/index.php",
+		"/Users/Kenneth/dev/src/themes/finder/functions.php",
+		"/Users/Kenneth/BitTorrent Sync/shared/NBN/2016-01/Proposed_footprint_list_Jan 16/AS_SAT_ADDR_PFL_20160122_190745.xml",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/googlefcea10ba26efcaf3.html",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/sftp-config-alt.json",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/module/poi.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/sftp-config.json",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/embedmap.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/_basetemplate.mustache",
+		"/Users/Kenneth/Dropbox/home-vpn.ovpn",
+		"/Users/Kenneth/Downloads/home-asus-router.ovpn",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_AS_Data_archive.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_MRFS_Data_archive.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/footer.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/lib/mynbnclass/mynbn.init.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/compare_fttn_estimate.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/rsplist_rhs.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/list/region.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/module/region.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/module/recent.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/lib/mynbnclass/nbn_region.class.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_Pins_Data.php",
+		"/Users/Kenneth/Google Drive/Scrapers/nbn scrapers/script/reportRFSv2.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/db.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Migrate_DA_Extra_Data.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Load_Footprint_SC_History.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/lib/mynbnclass/nbn_csa.class.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/lib/mynbnclass/nbn_sa.class.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/top_el_spr_ad_nowrap.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Generate_DA_Data.php",
+		"/Users/Kenneth/Google Drive/Scrapers/SOO Scrapers/afltables.com.grandfinal.js",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/maps/test/grabpolys.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/homepage2.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/assets/css/bootstrap-ie7.css",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/assets/js/boxsizing.htc",
+		"/Users/Kenneth/Google Drive/Scrapers/presto.js",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/template/ajax/lh_result.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/lib/nbnexcel.func.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Generate_MTM_Fuzzy.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_AS_Data.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_Map_Status_Data.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/template/ajax/iw_map.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/twitterFeed.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Process_Subscription_MRFS.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Process_Subscription.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/module/location.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/assets/js/mynbn.map.full_ed.js",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/assets/js/mynbn.map.elect.js",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/mapelect.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/assets/js/mynbn.map.js",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/ajax.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_HRRL_Data.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/test.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/module/stats.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Project_Dream.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/OPENetworks_sites_puller.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Generate_PFL_HFL_Transition.php",
+		"/Users/Kenneth/Dropbox/NBN/FTTN/automap/speedCalculator/ajax.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/lib/mynbnclass/nbn_date.class.php",
+		"/Users/Kenneth/Google Drive/Scrapers/nbn scrapers/data/15Jun2015_JSON/brownfields_fibre_build_commenced.json",
+		"/Users/Kenneth/Desktop/region_date_update_jun.csv",
+		"/Users/Kenneth/Desktop/nbn_region_preparation_jun_15",
+		"/Users/Kenneth/Desktop/nbn_sam_jun_2015.csv",
+		"/Users/Kenneth/pub-scrapers/FTV/torrentfreakMostPiratedExtractor.js",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_Footprint_Data.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/list/sa.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/Integrate_MRFS_Data.php",
+		"/Users/Kenneth/Desktop/activation.csv",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/index.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/slack-test.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/kml.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/mine/ZZZ_old_NBNCo_rsp_puller.php",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/template/region_beta.mustache",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/viewsbs3/template/region.mustache",
+		"/Users/Kenneth/Desktop/July/Proposed Footprint List July 2015/AS_C_ADDR_PFL_20150715_174318.xml",
+		"/Users/Kenneth/Google Drive/Scrapers/stan.js",
+		"/Users/Kenneth/Dropbox/NBN/myNBN/2.0/code/robots.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/2015-05-08/SYD-nbn-rental-list-2015-05-08.html.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/2015-05-08/CAN-nbn-rental-list-2015-05-08.html.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/2015-05-08/DAR-nbn-rental-list-2015-05-08.html.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/2015-05-08/CAN-nbn-rental-list-2015-05-08.tsv.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/nbn-rental-list-2015-05-08-ACT.html.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/2015-05-08/LAU-nbn-rental-list-2015-05-08.html.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/2015-05-08/SSC-nbn-rental-list-2015-05-08.html.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/2015-05-08/LAU-nbn-rental-list-2015-05-08.tsv.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/nbn-rental-list-2015-05-08-ACT.tsv.txt",
+		"/Users/Kenneth/Google Drive/Scrapers/nbn-rental-list-2015-05-08-ACT.txt",
+		"/Users/Kenneth/OneDrive/Uni/COMP1197/mandelbrot/Task/submit/xanadu.h",
+		"/Users/Kenneth/Google Drive/simple_plagiarism.php",
+		"/Users/Kenneth/Google Drive/Scrapers/nbn-rental-list.tsv",
+		"/Volumes/Users/Administrator/Desktop/Sublime Text Licenses.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nbn-app",
+			"'DIV",
+			"subscription",
+			"rise",
+			"syn",
+			"\"",
+			"CDN",
+			"3y",
+			"301",
+			".png",
+			"filter",
+			"all",
+			"state.is.all",
+			"$request[\"params\"][\"ada\"]",
+			"list",
+			"connect_db",
+			"'/",
+			"website",
+			" +",
+			"primary",
+			"secondary",
+			"	",
+			"website",
+			"\"",
+			"p class=\"no-margin",
+			"preparation",
+			"build",
+			"ready",
+			"cta",
+			"checkplans",
+			"getnotified",
+			"ready",
+			"margin",
+			"h4",
+			"p",
+			"'",
+			"$sa_data[name]",
+			"\"",
+			"$renderData[\"cta\"][\"nbnrentals\"] = true;",
+			"to see",
+			"track the rollout",
+			" = true",
+			"bf",
+			"$renderData[\"regionCount\"]",
+			"constructionplan",
+			"build",
+			"partial",
+			"PageData",
+			"the_title",
+			"head",
+			"SA",
+			"old",
+			"/GB",
+			"CIS",
+			"infowindow",
+			"Assignments for this Licence",
+			"ID	Frequency	Emission Designator	T/R	Site/Area",
+			", ",
+			", D",
+			"wget",
+			"are_types.",
+			" name: \"",
+			"    ",
+			"   ",
+			"	N",
+			"	Y",
+			"	tv	",
+			"	Y",
+			"	N",
+			"layerHand",
+			"doShowLayer",
+			"cartodb_layer",
+			"ext",
+			"Age",
+			"Golden-Globe Winning",
+			"	",
+			"href=\"http://www.netflix.com/browse/genre/",
+			"Campty",
+			"value=\"From",
+			"From",
+			"js-nfx-genre",
+			"&",
+			"select",
+			"&",
+			"imtCurrencyFrom",
+			"form__input--ristretto ",
+			"imtAmount",
+			"/browse/genre/",
+			"\"assets/towers.kml\"",
+			"=> ",
+			"name",
+			", ",
+			"	",
+			"rsp_data_db",
+			"provider",
+			"	",
+			"mtm",
+			"Inequalities ",
+			"Geometry ",
+			"Mechanics ",
+			"Probability ",
+			"Polynomials ",
+			"Circle geometry ",
+			"Volumes ",
+			"Conics ",
+			"Graphs ",
+			"Complex numbers ",
+			"Integration ",
+			") ",
+			"Applications of calculus to physical world",
+			"Series and application ",
+			"Plane geometry ",
+			"Geometrical applications of differentiation ",
+			") ",
+			"Geometrical applications of differentiation ",
+			"Applications of calculus to physical world ",
+			"Probability ",
+			"Trigonometric functions ",
+			"Logarithmic and exponential functions ",
+			"Real functions ",
+			"The trigonometric functions ",
+			"Plane geometry",
+			"Trigonometric ratios ",
+			"Tangents to curve and derivatives of functions",
+			"Linear functions and lines ",
+			"angent to curve and derivative of function ",
+			"Integration ",
+			"Integration"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "comp1927.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"subsc",
+				"plugins/nbn/viewsbs3/subscription.mustache"
+			],
+			[
+				"ajax",
+				"plugins/nbn/ajax.php"
+			],
+			[
+				"csa.",
+				"plugins/nbn/lib/mynbnclass/nbn_csa.class.php"
+			],
+			[
+				"rolloi",
+				"plugins/nbn/src/Module/RolloutRegion.php"
+			],
+			[
+				"logger.fu",
+				"plugins/nbn/mine/lib/logger.func.php"
+			],
+			[
+				"hrrl",
+				"plugins/nbn/mine/Integrate_HRRL_Data.php"
+			],
+			[
+				"process",
+				"plugins/nbn2/mine/Process_Subscription.php"
+			],
+			[
+				"poi",
+				"plugins/nbn/lib/mynbnclass/nbn_poi.class.php"
+			],
+			[
+				"rollout",
+				"plugins/nbn/src/Module/RolloutRegion.php"
+			],
+			[
+				"csa.php",
+				"plugins/nbn/lib/mynbnclass/nbn_csa.class.php"
+			],
+			[
+				"poi.php",
+				"plugins/nbn/lib/mynbnclass/nbn_poi.class.php"
+			],
+			[
+				"sa.mustache",
+				"plugins/nbn/viewsbs3/template/sa.mustache"
+			],
+			[
+				"nbn_sa",
+				"plugins/nbn/lib/mynbnclass/nbn_sa.class.php"
+			],
+			[
+				"mapdev",
+				"assets/js/mynbn.mapdev.full_ed.js"
+			],
+			[
+				"map",
+				"assets/js/mynbn.map.js"
+			],
+			[
+				"geocode",
+				"assets/js/geocode.mynbn.full_ed.js"
+			],
+			[
+				"mapid",
+				"assets/js/mapid.js"
+			],
+			[
+				"embed",
+				"viewsbs3/embedmap.mustache"
+			],
+			[
+				"map.mus",
+				"viewsbs3/map.mustache"
+			],
+			[
+				"",
+				"assets/js/mynbn.map.js"
+			],
+			[
+				"mapf",
+				"assets/js/mynbn.map.full_ed.js"
+			],
+			[
+				"dev",
+				"assets/js/mynbn.mapdev.full_ed.js"
+			],
+			[
+				"kml",
+				"kml.php"
+			],
+			[
+				"map.js",
+				"assets/js/mynbn.map.full_ed.js"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"mapi",
+				"assets/js/mapid.js"
+			],
+			[
+				"mapde",
+				"assets/js/mynbn.mapdev.full_ed.js"
+			],
+			[
+				"map_de",
+				"assets/js/mynbn.mapdev.full_ed.js"
+			],
+			[
+				"faq",
+				"viewsbs3/faq.mustache"
+			],
+			[
+				"csa",
+				"lib/mynbnclass/nbn_csa.class.php"
+			],
+			[
+				"rsp",
+				"viewsbs3/rsplist.mustache"
+			],
+			[
+				"nbn_csa",
+				"lib/mynbnclass/nbn_csa.class.php"
+			],
+			[
+				"map.must",
+				"viewsbs3/map.mustache"
+			],
+			[
+				"footer",
+				"viewsbs3/footer.mustache"
+			],
+			[
+				"_base",
+				"viewsbs3/_basetemplate.mustache"
+			],
+			[
+				"integra",
+				"mine/Integrate_MRFS_Data.php"
+			],
+			[
+				"recent.",
+				"viewsbs3/template/recent.mustache"
+			],
+			[
+				"recent",
+				"module/recent.php"
+			],
+			[
+				"projec",
+				"mine/Project_Dream.php"
+			],
+			[
+				"map.",
+				"viewsbs3/embedmap.mustache"
+			],
+			[
+				"map.musta",
+				"viewsbs3/map.mustache"
+			],
+			[
+				"nbn_lo",
+				"lib/mynbnclass/nbn_location.class.php"
+			],
+			[
+				"mynbn.js",
+				"assets/js/mynbn.js"
+			],
+			[
+				"mynbn",
+				"assets/js/mynbn.js"
+			],
+			[
+				"ajax.",
+				"ajax.php"
+			],
+			[
+				"mynbn.fu",
+				"assets/js/mynbn.full_ed.js"
+			],
+			[
+				"subs",
+				"viewsbs3/subscription.mustache"
+			],
+			[
+				"nbn_loca",
+				"lib/mynbnclass/nbn_location.class.php"
+			],
+			[
+				"locat",
+				"lib/mynbnclass/nbn_location.class.php"
+			],
+			[
+				"nbn_loc",
+				"lib/mynbnclass/nbn_location.class.php"
+			],
+			[
+				"location.php",
+				"lib/mynbnclass/nbn_location.class.php"
+			],
+			[
+				"mynbn.map",
+				"assets/js/mynbn.map.full_ed.js"
+			],
+			[
+				"proje",
+				"mine/Project_Dream.php"
+			],
+			[
+				"map.mu",
+				"viewsbs3/map.mustache"
+			],
+			[
+				"nav",
+				"viewsbs3/navtop.mustache"
+			],
+			[
+				"region.m",
+				"viewsbs3/list/region.mustache"
+			],
+			[
+				"faq.",
+				"viewsbs3/faq.mustache"
+			],
+			[
+				"proc",
+				"mine/Process_Subscription.php"
+			],
+			[
+				"sa.mu",
+				"viewsbs3/list/sa.mustache"
+			],
+			[
+				"integrate",
+				"mine/Integrate_Footprint_Data.php"
+			],
+			[
+				"excel",
+				"mine/lib/nbnexcel.func.php"
+			],
+			[
+				"mynbn.li",
+				"lib/mynbnclass/mynbn.init.php"
+			],
+			[
+				"elec",
+				"assets/js/mynbn.map.elect.js"
+			],
+			[
+				"pro",
+				"mine/Project_Dream.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
