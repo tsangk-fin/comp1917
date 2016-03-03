@@ -10,11 +10,11 @@ int main(int argc, char *argv[])
 	IntList myList, myOtherList;
 
 	myList = getIntList(stdin);
-	showIntList(myList);
+	// showIntList(myList);
 	assert(IntListOK(myList));
 
 	myOtherList = IntListSortedCopy(myList);
-	printf("Sorted:\n");
+	// printf("Sorted:\n");
 	showIntList(myOtherList);
 	assert(IntListOK(myOtherList));
 	assert(IntListIsSorted(myOtherList));
