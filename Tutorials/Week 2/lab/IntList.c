@@ -108,24 +108,29 @@ void IntListInsertInOrder(IntList L, int v)
 		while(curr != NULL && !added){
 			if(curr->data >= v){
 				struct IntListNode *n;
-				n = newIntListNode(v);
-				n->next = curr;
+				n = newIntListNode(v); // set the value of node to int
+				n->next = curr; // set the next pointer to current node
 
-				// adding to the start of the node
+				// if there's no "previous" node,
+				// it means we are at the start of the list
+				// hence, add to the start of the list
 				if (prev == NULL){
 					L->first = n;
 				} else {
 					prev->next = n;
 				}
 
-				L->size++;
-				added = 1;
+				L->size++; // grow list size by one after adding
+				added = 1; // flag as added, ending the while loop
 			}
 
+			// increment prev, curr for next iteration
 			prev = curr;
 			curr = curr->next;
 		}
 
+		// if number was not added, add to the end of list
+		// (although, this should already be handled with L->last->data <= v check)
 		if(!added){
 			IntListInsert(L, v);
 		}
