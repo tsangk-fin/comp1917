@@ -96,39 +96,42 @@ void IntListInsertInOrder(IntList L, int v)
 
 	struct IntListNode *curr = L->first;
 	struct IntListNode *prev = NULL;
-	struct IntListNode *n;
-	// If the list is currently empty,
-	// simply add the integer to the list
+
+	// Check if we're dealing with an empty list
+	// or if the int is larger than the last value
+	// .. if so, simply append int to the end of list
 	if(curr == NULL || L->last->data <= v){
 		IntListInsert(L, v);
 	}else{
 		int added = 0; // flag to check if int has been added
-		while(curr != NULL){
-			if(!added && curr->data >= v){
-				n = newIntListNode(v);
-				n->next = curr;
 
-				// adding to the start of the node
+		while(curr != NULL && !added){
+			if(curr->data >= v){
+				struct IntListNode *n;
+				n = newIntListNode(v); // set the value of node to int
+				n->next = curr; // set the next pointer to current node
+
+				// if there's no "previous" node,
+				// it means we are at the start of the list
+				// hence, add to the start of the list
 				if (prev == NULL){
 					L->first = n;
 				} else {
 					prev->next = n;
 				}
 
-				added = 1;
+				L->size++; // grow list size by one after adding
+				added = 1; // flag as added, ending the while loop
 			}
 
+			// increment prev, curr for next iteration
 			prev = curr;
 			curr = curr->next;
 		}
 
-		// if the int was added,
-		// fix L->last and L->size
-		if(added){
-			L->last = prev;
-			L->size++;
-		}else{
-		// if not, add the int to the end
+		// if number was not added, add to the end of list
+		// (although, this should already be handled with L->last->data <= v check)
+		if(!added){
 			IntListInsert(L, v);
 		}
 	}
